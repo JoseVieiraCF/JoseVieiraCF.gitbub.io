@@ -400,6 +400,9 @@ section .title::after{
     margin: 5px 10px 5px 10px;
     border: none;
     font-size: 18px;
+    font-weight: 500;
+    font-family: 'Poppins', sans-serif;
+
     padding: 10px;
     outline: none;
     position: relative;
